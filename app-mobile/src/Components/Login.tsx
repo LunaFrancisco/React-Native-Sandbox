@@ -1,6 +1,5 @@
 
-import React, { useReducer, useEffect } from 'react'
-import { tokenToString } from 'typescript'
+import  { useReducer, useEffect } from 'react'
 
 interface AuthState {
   validando: boolean,
